@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeployDbChanges", "DeployDbChanges\DeployDbChanges.csproj", "{53E7AE7F-F0B6-4979-ACE6-5C05052A75B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E7AE7F-F0B6-4979-ACE6-5C05052A75B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E7AE7F-F0B6-4979-ACE6-5C05052A75B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E7AE7F-F0B6-4979-ACE6-5C05052A75B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E7AE7F-F0B6-4979-ACE6-5C05052A75B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7069C488-69E9-4261-B892-A92B2B2489B9}
+	EndGlobalSection
+EndGlobal
